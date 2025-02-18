@@ -24,7 +24,7 @@ You can view the live version of the project here: [Random Quote Machine](https:
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/random-quote-machine.git
+   git clone https://github.com/paweldrabik97/RandomQuoteMachine.git
    ```
 2. Navigate to the project folder:
    ```sh
